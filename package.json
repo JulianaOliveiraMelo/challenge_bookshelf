@@ -1,0 +1,23 @@
+{
+  "name": "challenge_bookshelf",
+  "version": "1.0.0",
+  "description": "Aujourd'hui nous avons vu comment nous pouvions créer un module, afin de compartimenter notre code. Nous avons également découvert qu'il existait une infinité de modules déjà existants, récupérables, et installable via npm. Ici nous allons utiliser l'un des modules les plus populaires : momentjs ! Il va vous permettre de jouer avec les dates en faisant des calculs et/ou des formatages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianaOliveiraMelo/challenge_bookshelf"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zenith/s03e03-challenge-bookshelf-jpruliere/issues"
+  },
+  "homepage": "https://github.com/JulianaOliveiraMelo/challenge_bookshelf#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "pretty": "^2.0.0"
+  }
+}
